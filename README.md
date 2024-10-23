@@ -16,7 +16,8 @@ export TRONSCAN_HTTP_PROVIDER_URI=https://apilist.tronscanapi.com/
 To install the package, use pip:
 
 ```sh
-pip install tronscan
+pip install git+https://github.com/Romamo/tronscan.git
+
 ```
 
 ## Usage
